@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="153354" started-at="2019-07-13T23:50:14Z" finished-at="2019-07-13T23:52:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="153354" started-at="2019-07-13T23:50:14Z" finished-at="2019-07-13T23:52:48Z">
+      <class name="testcase4_UpdateRofile">
+        <test-method status="PASS" signature="OpeBrowser()[pri:0, instance:testcase4_UpdateRofile@1a8a8f7c]" name="OpeBrowser" is-config="true" duration-ms="27445" started-at="2019-07-13T23:50:15Z" finished-at="2019-07-13T23:50:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpeBrowser -->
+        <test-method status="PASS" signature="test_signinEdureka(java.lang.String, java.lang.String)[pri:0, instance:testcase4_UpdateRofile@1a8a8f7c]" name="test_signinEdureka" duration-ms="14355" started-at="2019-07-13T23:50:46Z" data-provider="testDatafeed" finished-at="2019-07-13T23:51:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testcompu2019@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[KiraAlber7a2018]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_signinEdureka -->
+        <test-method status="PASS" signature="test_Course()[pri:2, instance:testcase4_UpdateRofile@1a8a8f7c]" name="test_Course" duration-ms="61737" started-at="2019-07-13T23:51:00Z" finished-at="2019-07-13T23:52:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Course -->
+        <test-method status="PASS" signature="test_userLogOut()[pri:3, instance:testcase4_UpdateRofile@1a8a8f7c]" name="test_userLogOut" duration-ms="13788" started-at="2019-07-13T23:52:02Z" finished-at="2019-07-13T23:52:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_userLogOut -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:testcase4_UpdateRofile@1a8a8f7c]" name="CloseBrowser" is-config="true" duration-ms="32036" started-at="2019-07-13T23:52:16Z" finished-at="2019-07-13T23:52:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- testcase4_UpdateRofile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
